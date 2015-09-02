@@ -1,0 +1,1 @@
+autocmd BufRead,BufNewFile *.pp set filetype=pp
