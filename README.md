@@ -5,16 +5,38 @@ Moreover, Hoa aims at being a bridge between industrial and research worlds.
 
 # Contributions/Vim/Pp
 
-This repository contains tools for the PP grammar description language from
-[`Hoa\Compiler`](http://central.hoa-project.net/Resource/Library/Compiler).
+This repository contains Vim tools for the PP grammar description language from
+[the PHP `Hoa\Compiler`
+library](http://central.hoa-project.net/Resource/Library/Compiler):
+
+  * File type plugin,
+  * File type detection,
+  * File syntax and,
+  * Color scheme.
 
 ## Installation
 
-…
+With [Vundle](https://github.com/gmarik/Vundle.vim), to include this plugin into
+your Vim plugins, you need to require
+[`hoaproject/Contributions-Vim-Pp`](http://vimawesome.com/plugin/pp) (in your
+plugin list file):
+
+```vim
+Plugin 'hoaproject/Contributions-Vim-Pp'
+```
+
+Then, in the Vim command mode (press Esc):
+
+```vim
+:source %
+:PluginInstall
+```
 
 ## Quick usage
 
-…
+Just open a PP file in Vim, nothing special to do! For instance, try the
+[`hoa://Library/Compiler/Llk/Llk.pp`](http://central.hoa-project.net/Resource/Library/Compiler/Llk/Llk.pp)
+file.
 
 ## Documentation
 
