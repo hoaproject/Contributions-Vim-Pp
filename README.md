@@ -38,7 +38,7 @@ Just open a PP file in Vim, nothing special to do! For instance, try the
 [`hoa://Library/Compiler/Llk/Llk.pp`](http://central.hoa-project.net/Resource/Library/Compiler/Llk/Llk.pp)
 file:
 
-![The plugin in action](./doc/image/screenshot.png)
+![The plugin in action](http://central.hoa-project.net/Resource/Contributions/Vim/Pp/doc/image/screenshot.png)
 
 ## Documentation
 
