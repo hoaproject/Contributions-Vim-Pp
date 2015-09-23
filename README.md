@@ -36,7 +36,9 @@ Then, in the Vim command mode (press Esc):
 
 Just open a PP file in Vim, nothing special to do! For instance, try the
 [`hoa://Library/Compiler/Llk/Llk.pp`](http://central.hoa-project.net/Resource/Library/Compiler/Llk/Llk.pp)
-file.
+file:
+
+![The plugin in action](./doc/image/screenshot.png)
 
 ## Documentation
 
